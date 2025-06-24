@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Otniel TAMINI</h1>
-<h3 align="center">DevOps & Cloud Engineer | AWS Certified | Automation Enthusiast</h3>
+# Hi 👋, I'm Otniel TAMINI
+### DevOps & Cloud Engineer | AWS Certified | Automation Enthusiast
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Building+Resilient+Cloud+Systems;Automating+with+CI%2FCD+and+DevOps;DevSecOps+is+in+my+DNA;Let%27s+Automate+Everything+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+</div>
 
 ---
 
@@ -56,6 +56,7 @@
 </p>
 
 ---
+
 ### ✍️ Medium Articles
 
 [![Follow me on Medium](https://img.shields.io/badge/Follow%20me%20on%20Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@otniel-tamini)
@@ -67,22 +68,25 @@ Check out my blog on [Medium](https://medium.com/@otniel-tamini) for tutorials, 
 - 🚀 Coming soon: My DevOps journey, tutorials, and real-world AWS projects
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center">
-  <a href="https://medium.com/@otniel-tamini">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="40" height="40" alt="Medium logo" />
-  </a>
-</p>
-
 ---
 
 ### 📬 Let's Connect
 
 <p align="center">
-  <a href="mailto:otnieltamini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/otniel-tamini"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/otniel-tamini"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:otnieltamini@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/otniel-tamini">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/otniel-tamini">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@otniel-tamini">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<p align="center">💡 “Automation is the key to scalability.”</p>
+> 💡 “Automation is the key to scalability.”
