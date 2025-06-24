@@ -57,6 +57,19 @@
 
 ---
 
+---
+
+### ✍️ Medium Articles
+
+📰 I also write about DevOps, Cloud, and automation on [Medium](https://medium.com/@otniel-tamini)
+
+[![Otniel's Medium](https://img.shields.io/badge/Follow%20me%20on%20Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@otniel-tamini)
+
+<!-- BLOG-POST-LIST:START -->
+- 🚀 Coming soon: My DevOps journey, tutorials, and real-world AWS projects
+<!-- BLOG-POST-LIST:END -->
+---
+
 ### 📬 Let's Connect
 
 <p align="center">
