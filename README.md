@@ -56,9 +56,6 @@
 </p>
 
 ---
-
----
-
 ### ✍️ Medium Articles
 
 [![Follow me on Medium](https://img.shields.io/badge/Follow%20me%20on%20Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@otniel-tamini)
