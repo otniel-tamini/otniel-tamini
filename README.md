@@ -61,21 +61,29 @@
 
 ### ✍️ Medium Articles
 
-📰 I also write about DevOps, Cloud, and automation on [Medium](https://medium.com/@otniel-tamini)
+[![Follow me on Medium](https://img.shields.io/badge/Follow%20me%20on%20Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@otniel-tamini)
 
-[![Otniel's Medium](https://img.shields.io/badge/Follow%20me%20on%20Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@otniel-tamini)
+📰 I regularly write about DevOps, Cloud, and automation.  
+Check out my blog on [Medium](https://medium.com/@otniel-tamini) for tutorials, insights, and hands-on guides.
 
 <!-- BLOG-POST-LIST:START -->
 - 🚀 Coming soon: My DevOps journey, tutorials, and real-world AWS projects
 <!-- BLOG-POST-LIST:END -->
+
+<p align="center">
+  <a href="https://medium.com/@otniel-tamini">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="40" height="40" alt="Medium logo" />
+  </a>
+</p>
+
 ---
 
 ### 📬 Let's Connect
 
 <p align="center">
   <a href="mailto:otnieltamini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/otniel-tamini"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/otniel-tamini"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/otniel-tamini"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/otniel-tamini"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
